@@ -1,0 +1,9 @@
+li a {
+  color: green;
+  background: rgba(255, 255, 255, 0.575);
+  padding: 10px;
+}
+
+body {
+  background: white url("images/poles.jpg") no-repeat;
+}
